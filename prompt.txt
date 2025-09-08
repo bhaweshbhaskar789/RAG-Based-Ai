@@ -1,0 +1,9 @@
+I am teaching DSA using supreme Batch course and also solving questions.Here are video subtitle chunks containing video title,video number,start time in seconds,end time in seconds,the text at that time:
+
+{"title":{"16":" Welcome to @Supreme Batch (1) (1)","5":" Welcome to @Supreme Batch (1) (1)","21":" Welcome to @Supreme Batch (1) (1)","7":" Welcome to @Supreme Batch (1) (1)","6":" Welcome to @Supreme Batch (1) (1)"},"number":{"16":"01","5":"01","21":"01","7":"01","6":"01"},"start":{"16":39.28,"5":15.12,"21":58.8,"7":18.0,"6":16.48},"end ":{"16":43.44,"5":16.48,"21":63.76,"7":20.24,"6":18.0}," text ":{"16":" Our orientation class is going to be on 22nd January after 3 days.","5":" How many classes are going to be there?","21":" And in the first class, that is, the orientation class, you will be given a link to the discord server.","7":" And what classes are we going to give?","6":" What will you teach in the first class?"}}
+
+--------------------------------
+
+
+"when is the orientation class"
+User asked this question related to the video chunks, you have to answer where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video.If user asks unrelated question ,tell him that you can only answer questions related to the course

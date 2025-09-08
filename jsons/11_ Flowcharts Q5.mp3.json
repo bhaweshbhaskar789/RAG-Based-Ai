@@ -1,0 +1,1069 @@
+{
+  "chhunks": [
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 0.0,
+      "end ": 2.0,
+      " text ": " Hi everyone, welcome to the supreme batch"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 2.0,
+      "end ": 6.4,
+      " text ": " In this video, we are going to see how to find a factorial of a number"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 6.4,
+      "end ": 8.9,
+      " text ": " How to find a factorial from a computer"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 8.9,
+      "end ": 12.4,
+      " text ": " And how to make a flowchart of this algorithm"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 12.4,
+      "end ": 14.4,
+      " text ": " What is its pseudocode"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 14.4,
+      "end ": 17.7,
+      " text ": " First of all, let's know what is a factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 17.7,
+      "end ": 21.2,
+      " text ": " What is a factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 21.2,
+      "end ": 24.400000000000002,
+      " text ": " Factorial means you said n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 24.400000000000002,
+      "end ": 26.400000000000002,
+      " text ": " Tell me the factorial of n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 26.4,
+      "end ": 28.4,
+      " text ": " Tell me the factorial of n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 28.4,
+      "end ": 30.4,
+      " text ": " This is your sign of factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 30.4,
+      "end ": 34.4,
+      " text ": " So, factorial of n means I will multiply n from n-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 34.4,
+      "end ": 38.4,
+      " text ": " Then I will multiply n from n-2"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 38.4,
+      "end ": 40.4,
+      " text ": " Then I will multiply n from n-3"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 40.4,
+      "end ": 44.4,
+      " text ": " And I will keep multiplying till 1 comes here"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 44.4,
+      "end ": 48.4,
+      " text ": " This is your factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 48.4,
+      "end ": 50.4,
+      " text ": " Let's understand it through an example"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 50.4,
+      "end ": 52.4,
+      " text ": " Suppose n is 5"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 52.4,
+      "end ": 58.4,
+      " text ": " 5 factorial means we will multiply 5 from 4"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 58.4,
+      "end ": 60.4,
+      " text ": " We will multiply 5 from 3"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 60.4,
+      "end ": 62.4,
+      " text ": " We will multiply 5 from 2"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 62.4,
+      "end ": 64.4,
+      " text ": " We will multiply 5 from 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 64.4,
+      "end ": 66.4,
+      " text ": " The answer is 120"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 66.4,
+      "end ": 70.4,
+      " text ": " Let's see another example"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 70.4,
+      "end ": 72.4,
+      " text ": " Suppose n is 3"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 72.4,
+      "end ": 74.4,
+      " text ": " 3 factorial means n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 74.4,
+      "end ": 76.4,
+      " text ": " Here 3 is here"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 76.4,
+      "end ": 78.4,
+      " text ": " 3 multiply 3-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 78.4,
+      "end ": 80.4,
+      " text ": " n-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 80.4,
+      "end ": 82.4,
+      " text ": " 3 multiply n-2"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 82.4,
+      "end ": 84.4,
+      " text ": " 3-2"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 84.4,
+      "end ": 86.4,
+      " text ": " That is 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 86.4,
+      "end ": 88.4,
+      " text ": " This is factorial of any number"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 88.4,
+      "end ": 90.4,
+      " text ": " How to calculate"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 90.4,
+      "end ": 92.4,
+      " text ": " You must be having an intuition"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 92.4,
+      "end ": 94.4,
+      " text ": " We will use a loop"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 94.4,
+      "end ": 96.4,
+      " text ": " We will start from n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 96.4,
+      "end ": 98.4,
+      " text ": " Then n-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 98.4,
+      "end ": 100.4,
+      " text ": " n-2"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 100.4,
+      "end ": 102.4,
+      " text ": " We will keep doing it till 1 comes"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 102.4,
+      "end ": 104.4,
+      " text ": " I will multiply all of them"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 104.4,
+      "end ": 108.4,
+      " text ": " Let's make a flowchart"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 108.4,
+      "end ": 110.4,
+      " text ": " To make a flowchart"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 110.4,
+      "end ": 114.4,
+      " text ": " First we will make a start block"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 114.4,
+      "end ": 118.4,
+      " text ": " After start, I will read n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 118.4,
+      "end ": 122.4,
+      " text ": " I will read n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 122.4,
+      "end ": 124.4,
+      " text ": " After reading n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 124.4,
+      "end ": 126.4,
+      " text ": " I will need a variable"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 126.4,
+      "end ": 128.4,
+      " text ": " In which I will store factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 128.4,
+      "end ": 132.4,
+      " text ": " Let's take a variable"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 132.4,
+      "end ": 136.4,
+      " text ": " I will initialize it as fact"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 136.4,
+      "end ": 138.4,
+      " text ": " We will initialize it as 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 138.4,
+      "end ": 140.4,
+      " text ": " What will be 1 factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 140.4,
+      "end ": 142.4,
+      " text ": " 1 is the smallest number"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 142.4,
+      "end ": 144.4,
+      " text ": " 1 factorial is 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 144.4,
+      "end ": 146.4,
+      " text ": " We have initialized it as 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 146.4,
+      "end ": 148.4,
+      " text ": " Let's move ahead"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 148.4,
+      "end ": 150.4,
+      " text ": " I will need a condition"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 150.4,
+      "end ": 152.4,
+      " text ": " I have to run a loop"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 152.4,
+      "end ": 154.4,
+      " text ": " I have seen that"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 154.4,
+      "end ": 156.4,
+      " text ": " It is necessary to run a loop"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 156.4,
+      "end ": 158.4,
+      " text ": " I will keep decrementing n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 158.4,
+      "end ": 162.4,
+      " text ": " Suppose when n is greater than or equal to 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 162.4,
+      "end ": 166.4,
+      " text ": " If n is greater than or equal to 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 166.4,
+      "end ": 168.4,
+      " text ": " What will we do?"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 168.4,
+      "end ": 170.4,
+      " text ": " If n is greater than 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 170.4,
+      "end ": 172.4,
+      " text ": " What will we do?"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 172.4,
+      "end ": 176.4,
+      " text ": " We will multiply factorial by n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 176.4,
+      "end ": 180.4,
+      " text ": " We will multiply factorial by n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 180.4,
+      "end ": 182.4,
+      " text ": " After that"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 182.4,
+      "end ": 184.4,
+      " text ": " We will decrement n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 184.4,
+      "end ": 186.4,
+      " text ": " We will decrement n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 186.4,
+      "end ": 188.4,
+      " text ": " n is equal to n-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 188.4,
+      "end ": 190.4,
+      " text ": " After that"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 190.4,
+      "end ": 192.4,
+      " text ": " After that"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 192.4,
+      "end ": 194.4,
+      " text ": " I will run the loop"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 194.4,
+      "end ": 196.4,
+      " text ": " This loop will keep running"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 196.4,
+      "end ": 198.4,
+      " text ": " Let's understand an example"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 198.4,
+      "end ": 200.4,
+      " text ": " If there is confusion"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 200.4,
+      "end ": 202.4,
+      " text ": " Suppose I took n as 5"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 202.4,
+      "end ": 204.4,
+      " text ": " First 5 will be read"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 204.4,
+      "end ": 206.4,
+      " text ": " Then I took a variable"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 206.4,
+      "end ": 208.4,
+      " text ": " I took a variable as fact"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 208.4,
+      "end ": 210.4,
+      " text ": " I initialized it as 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 210.4,
+      "end ": 212.4,
+      " text ": " Now I am checking if n is greater than or equal to 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 212.4,
+      "end ": 214.4,
+      " text ": " If n is greater than or equal to 5"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 214.4,
+      "end ": 216.4,
+      " text ": " What will we do?"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 216.4,
+      "end ": 218.4,
+      " text ": " Fact is equal to fact"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 218.4,
+      "end ": 220.4,
+      " text ": " Now I multiply 5"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 220.4,
+      "end ": 222.4,
+      " text ": " Now my fact is 5"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 222.4,
+      "end ": 224.4,
+      " text ": " After that"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 224.4,
+      "end ": 226.4,
+      " text ": " I will decrement n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 226.4,
+      "end ": 228.4,
+      " text ": " n is equal to n-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 228.4,
+      "end ": 230.4,
+      " text ": " which is 5-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 230.4,
+      "end ": 232.4,
+      " text ": " Now let's come back"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 232.4,
+      "end ": 234.4,
+      " text ": " Your loop will keep running"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 234.4,
+      "end ": 236.4,
+      " text ": " We will check if 4 is greater than 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 236.4,
+      "end ": 238.4,
+      " text ": " Yes, it is"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 238.4,
+      "end ": 240.4,
+      " text ": " If 4 is greater than 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 240.4,
+      "end ": 242.4,
+      " text ": " Now what is the value of fact?"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 242.4,
+      "end ": 244.4,
+      " text ": " It is 5"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 244.4,
+      "end ": 246.4,
+      " text ": " Now we multiply n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 246.4,
+      "end ": 248.4,
+      " text ": " n is equal to 4"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 248.4,
+      "end ": 250.4,
+      " text ": " What will be the value of fact?"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 250.4,
+      "end ": 252.4,
+      " text ": " It is 20"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 252.4,
+      "end ": 254.4,
+      " text ": " Now we will decrement n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 254.4,
+      "end ": 256.4,
+      " text ": " n-1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 256.4,
+      "end ": 258.4,
+      " text ": " It is 3"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 258.4,
+      "end ": 260.4,
+      " text ": " Similarly"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 260.4,
+      "end ": 262.4,
+      " text ": " Fact is equal to"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 262.4,
+      "end ": 264.4,
+      " text ": " 20 multiplied by 3"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 264.4,
+      "end ": 266.4,
+      " text ": " You will keep doing like this"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 266.4,
+      "end ": 268.4,
+      " text ": " Similarly 5 multiplied by 4"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 268.4,
+      "end ": 270.4,
+      " text ": " multiplied by 3"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 270.4,
+      "end ": 272.4,
+      " text ": " 2 multiplied by 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 272.4,
+      "end ": 274.4,
+      " text ": " Finally, it is 120"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 274.4,
+      "end ": 276.4,
+      " text ": " Now see carefully"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 276.4,
+      "end ": 278.4,
+      " text ": " If n is equal to 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 278.4,
+      "end ": 280.4,
+      " text ": " Then it will fulfill the condition"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 280.4,
+      "end ": 282.4,
+      " text ": " When n is less than or equal to 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 282.4,
+      "end ": 284.4,
+      " text ": " Then what we have to do?"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 284.4,
+      "end ": 286.4,
+      " text ": " What we have to do on no condition?"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 288.4,
+      "end ": 290.4,
+      " text ": " In no condition"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 290.4,
+      "end ": 292.4,
+      " text ": " We will create an output block"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 292.4,
+      "end ": 294.4,
+      " text ": " and print"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 294.4,
+      "end ": 296.4,
+      " text ": " fact"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 296.4,
+      "end ": 298.4,
+      " text ": " and then"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 298.4,
+      "end ": 300.4,
+      " text ": " stop"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 300.4,
+      "end ": 302.4,
+      " text ": " Okay"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 302.4,
+      "end ": 304.4,
+      " text ": " We have created"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 304.4,
+      "end ": 306.4,
+      " text ": " a flowchart"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 306.4,
+      "end ": 308.4,
+      " text ": " to find factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 308.4,
+      "end ": 310.4,
+      " text ": " We can create a pseudocode"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 310.4,
+      "end ": 312.4,
+      " text ": " by looking at flowchart"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 312.4,
+      "end ": 314.4,
+      " text ": " Pseudocode will be similar"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 314.4,
+      "end ": 316.4,
+      " text ": " We will read n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 316.4,
+      "end ": 318.4,
+      " text ": " Then we will initialize a variable"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 318.4,
+      "end ": 320.4,
+      " text ": " Then we will check the condition"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 320.4,
+      "end ": 322.4,
+      " text ": " If n is greater than 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 322.4,
+      "end ": 324.4,
+      " text ": " Till n is greater than or equal to 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 324.4,
+      "end ": 326.4,
+      " text ": " We will keep doing"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 326.4,
+      "end ": 328.4,
+      " text ": " fact multiplied by n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 328.4,
+      "end ": 330.4,
+      " text ": " We will decrement n"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 330.4,
+      "end ": 332.4,
+      " text ": " When n is less than or equal to 1"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 332.4,
+      "end ": 334.4,
+      " text ": " Then we will print"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 334.4,
+      "end ": 336.4,
+      " text ": " the fourth condition"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 336.4,
+      "end ": 338.4,
+      " text ": " and the pseudocode will be end"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 338.4,
+      "end ": 340.4,
+      " text ": " Okay"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 340.4,
+      "end ": 342.4,
+      " text ": " This was the factorial"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 342.4,
+      "end ": 344.4,
+      " text ": " of pseudocode and flowchart"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 344.4,
+      "end ": 346.4,
+      " text ": " See you in next video"
+    },
+    {
+      "number": "11",
+      "title": " Flowcharts Q5",
+      "start": 346.4,
+      "end ": 348.4,
+      " text ": " Good Bye"
+    }
+  ],
+  "text": " Hi everyone, welcome to the supreme batch In this video, we are going to see how to find a factorial of a number How to find a factorial from a computer And how to make a flowchart of this algorithm What is its pseudocode First of all, let's know what is a factorial What is a factorial Factorial means you said n Tell me the factorial of n Tell me the factorial of n This is your sign of factorial So, factorial of n means I will multiply n from n-1 Then I will multiply n from n-2 Then I will multiply n from n-3 And I will keep multiplying till 1 comes here This is your factorial Let's understand it through an example Suppose n is 5 5 factorial means we will multiply 5 from 4 We will multiply 5 from 3 We will multiply 5 from 2 We will multiply 5 from 1 The answer is 120 Let's see another example Suppose n is 3 3 factorial means n Here 3 is here 3 multiply 3-1 n-1 3 multiply n-2 3-2 That is 1 This is factorial of any number How to calculate You must be having an intuition We will use a loop We will start from n Then n-1 n-2 We will keep doing it till 1 comes I will multiply all of them Let's make a flowchart To make a flowchart First we will make a start block After start, I will read n I will read n After reading n I will need a variable In which I will store factorial Let's take a variable I will initialize it as fact We will initialize it as 1 What will be 1 factorial 1 is the smallest number 1 factorial is 1 We have initialized it as 1 Let's move ahead I will need a condition I have to run a loop I have seen that It is necessary to run a loop I will keep decrementing n Suppose when n is greater than or equal to 1 If n is greater than or equal to 1 What will we do? If n is greater than 1 What will we do? We will multiply factorial by n We will multiply factorial by n After that We will decrement n We will decrement n n is equal to n-1 After that After that I will run the loop This loop will keep running Let's understand an example If there is confusion Suppose I took n as 5 First 5 will be read Then I took a variable I took a variable as fact I initialized it as 1 Now I am checking if n is greater than or equal to 1 If n is greater than or equal to 5 What will we do? Fact is equal to fact Now I multiply 5 Now my fact is 5 After that I will decrement n n is equal to n-1 which is 5-1 Now let's come back Your loop will keep running We will check if 4 is greater than 1 Yes, it is If 4 is greater than 1 Now what is the value of fact? It is 5 Now we multiply n n is equal to 4 What will be the value of fact? It is 20 Now we will decrement n n-1 It is 3 Similarly Fact is equal to 20 multiplied by 3 You will keep doing like this Similarly 5 multiplied by 4 multiplied by 3 2 multiplied by 1 Finally, it is 120 Now see carefully If n is equal to 1 Then it will fulfill the condition When n is less than or equal to 1 Then what we have to do? What we have to do on no condition? In no condition We will create an output block and print fact and then stop Okay We have created a flowchart to find factorial We can create a pseudocode by looking at flowchart Pseudocode will be similar We will read n Then we will initialize a variable Then we will check the condition If n is greater than 1 Till n is greater than or equal to 1 We will keep doing fact multiplied by n We will decrement n When n is less than or equal to 1 Then we will print the fourth condition and the pseudocode will be end Okay This was the factorial of pseudocode and flowchart See you in next video Good Bye"
+}

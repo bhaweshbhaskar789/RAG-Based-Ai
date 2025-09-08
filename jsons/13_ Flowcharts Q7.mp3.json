@@ -1,0 +1,929 @@
+{
+  "chhunks": [
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 0.0,
+      "end ": 2.0,
+      " text ": " Hi everyone, welcome to the supreme batch"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 2.0,
+      "end ": 4.0,
+      " text ": " In this video, we are going to see"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 4.0,
+      "end ": 6.0,
+      " text ": " if a particular triangle is valid or not"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 6.0,
+      "end ": 8.0,
+      " text ": " Is that triangle valid or not?"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 8.0,
+      "end ": 10.0,
+      " text ": " We are going to check the validity of triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 10.0,
+      "end ": 12.0,
+      " text ": " using program"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 12.0,
+      "end ": 14.0,
+      " text ": " and we are going to make"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 14.0,
+      "end ": 16.0,
+      " text ": " its pseudocode and flowchart"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 16.0,
+      "end ": 18.0,
+      " text ": " First of all, let's see what I need"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 18.0,
+      "end ": 20.0,
+      " text ": " To define a triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 22.0,
+      "end ": 24.0,
+      " text ": " If I want to define a triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 24.0,
+      "end ": 26.0,
+      " text ": " I should know its sides"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 26.0,
+      "end ": 28.0,
+      " text ": " A"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 28.0,
+      "end ": 30.0,
+      " text ": " B"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 30.0,
+      "end ": 32.0,
+      " text ": " C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 34.0,
+      "end ": 36.0,
+      " text ": " I have told you its sides"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 36.0,
+      "end ": 38.0,
+      " text ": " Now, the sides that I have given you"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 38.0,
+      "end ": 40.0,
+      " text ": " You will ask, is this triangle valid or not?"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 40.0,
+      "end ": 42.0,
+      " text ": " It is possible that"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 42.0,
+      "end ": 44.0,
+      " text ": " it is not a triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 44.0,
+      "end ": 46.0,
+      " text ": " A, B, C are not fulfilling"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 46.0,
+      "end ": 48.0,
+      " text ": " the triangle condition"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 48.0,
+      "end ": 50.0,
+      " text ": " What is the triangle condition?"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 52.0,
+      "end ": 54.0,
+      " text ": " Mathematically"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 54.0,
+      "end ": 56.0,
+      " text ": " Triangle is only that"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 56.0,
+      "end ": 58.0,
+      " text ": " which has three sides"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 58.0,
+      "end ": 60.0,
+      " text ": " and in all three sides"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 60.0,
+      "end ": 62.0,
+      " text ": " their sum is only one relation"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 62.0,
+      "end ": 64.0,
+      " text ": " If the sum of two sides"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 64.0,
+      "end ": 66.0,
+      " text ": " is always greater than"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 66.0,
+      "end ": 68.0,
+      " text ": " other side"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 68.0,
+      "end ": 70.0,
+      " text ": " then"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 70.0,
+      "end ": 72.0,
+      " text ": " the sum of two sides"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 72.0,
+      "end ": 74.0,
+      " text ": " is always greater than"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 74.0,
+      "end ": 76.0,
+      " text ": " other side"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 76.0,
+      "end ": 78.0,
+      " text ": " If I want to say"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 78.0,
+      "end ": 80.0,
+      " text ": " If I will add A and B"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 80.0,
+      "end ": 82.0,
+      " text ": " It will always be greater than C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 82.0,
+      "end ": 84.0,
+      " text ": " Or if I will add B and C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 84.0,
+      "end ": 86.0,
+      " text ": " It will always be greater than A"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 86.0,
+      "end ": 88.0,
+      " text ": " Or if I will add A and C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 88.0,
+      "end ": 90.0,
+      " text ": " It will always be greater than B"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 90.0,
+      "end ": 92.0,
+      " text ": " If I will sum the length of two sides"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 92.0,
+      "end ": 94.0,
+      " text ": " It will be greater than other side"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 94.0,
+      "end ": 96.0,
+      " text ": " If this condition is true"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 96.0,
+      "end ": 98.0,
+      " text ": " Then the given values"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 98.0,
+      "end ": 100.0,
+      " text ": " A, B, C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 100.0,
+      "end ": 102.0,
+      " text ": " can form a triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 102.0,
+      "end ": 104.0,
+      " text ": " or not"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 104.0,
+      "end ": 106.0,
+      " text ": " Let's see an example"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 106.0,
+      "end ": 108.0,
+      " text ": " If I give an example"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 108.0,
+      "end ": 110.0,
+      " text ": " A, B, C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 110.0,
+      "end ": 112.0,
+      " text ": " If I give an example"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 112.0,
+      "end ": 114.0,
+      " text ": " A is equal to 1"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 114.0,
+      "end ": 116.0,
+      " text ": " B is equal to 3"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 116.0,
+      "end ": 118.0,
+      " text ": " C is equal to 0"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 120.0,
+      "end ": 122.0,
+      " text ": " If I take out"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 122.0,
+      "end ": 124.0,
+      " text ": " A plus B"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 124.0,
+      "end ": 126.0,
+      " text ": " A plus B is 4"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 126.0,
+      "end ": 128.0,
+      " text ": " 4 is greater than 0"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 128.0,
+      "end ": 130.0,
+      " text ": " If I take out B plus C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 130.0,
+      "end ": 132.0,
+      " text ": " 3 is greater than 1"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 132.0,
+      "end ": 134.0,
+      " text ": " 3 is greater than 1"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 134.0,
+      "end ": 136.0,
+      " text ": " 3 is greater than 1"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 136.0,
+      "end ": 138.0,
+      " text ": " If I take out A plus C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 138.0,
+      "end ": 140.0,
+      " text ": " 1 is greater than 0"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 140.0,
+      "end ": 142.0,
+      " text ": " 1 is greater than 3"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 142.0,
+      "end ": 144.0,
+      " text ": " No"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 144.0,
+      "end ": 146.0,
+      " text ": " If I have given values like A, B, C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 146.0,
+      "end ": 148.0,
+      " text ": " Then mathematically I can say"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 148.0,
+      "end ": 150.0,
+      " text ": " This is not a triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 150.0,
+      "end ": 152.0,
+      " text ": " Okay"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 152.0,
+      "end ": 154.0,
+      " text ": " Very good"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 154.0,
+      "end ": 156.0,
+      " text ": " Similarly, let's take an example"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 156.0,
+      "end ": 158.0,
+      " text ": " A is equal to 10"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 158.0,
+      "end ": 160.0,
+      " text ": " B is equal to 20"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 160.0,
+      "end ": 162.0,
+      " text ": " C is equal to 20"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 162.0,
+      "end ": 164.0,
+      " text ": " What is a valid triangle?"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 164.0,
+      "end ": 166.0,
+      " text ": " A plus B is greater than C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 166.0,
+      "end ": 168.0,
+      " text ": " 10 plus"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 168.0,
+      "end ": 170.0,
+      " text ": " 20 is greater than 20"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 170.0,
+      "end ": 172.0,
+      " text ": " 30 is greater than 20"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 172.0,
+      "end ": 174.0,
+      " text ": " B plus C is greater than 20"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 174.0,
+      "end ": 176.0,
+      " text ": " 40 is greater than 10"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 176.0,
+      "end ": 178.0,
+      " text ": " A plus C is greater than 20"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 178.0,
+      "end ": 180.0,
+      " text ": " 30 is greater than 20"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 180.0,
+      "end ": 182.0,
+      " text ": " Is this condition true?"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 182.0,
+      "end ": 184.0,
+      " text ": " Yes"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 184.0,
+      "end ": 186.0,
+      " text ": " This length can be a triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 186.0,
+      "end ": 188.0,
+      " text ": " This length can be a triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 188.0,
+      "end ": 190.0,
+      " text ": " Okay"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 190.0,
+      "end ": 192.0,
+      " text ": " Very good"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 192.0,
+      "end ": 194.0,
+      " text ": " Let's check the triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 194.0,
+      "end ": 196.0,
+      " text ": " Let's make a flowchart"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 196.0,
+      "end ": 198.0,
+      " text ": " How to start the flowchart?"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 198.0,
+      "end ": 200.0,
+      " text ": " First, we need a start"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 202.0,
+      "end ": 204.0,
+      " text ": " After start, we will read the input"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 204.0,
+      "end ": 206.0,
+      " text ": " from the user"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 208.0,
+      "end ": 210.0,
+      " text ": " A, B, C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 210.0,
+      "end ": 212.0,
+      " text ": " The length of the triangle"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 212.0,
+      "end ": 214.0,
+      " text ": " After that"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 214.0,
+      "end ": 216.0,
+      " text ": " We have to apply a big condition"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 216.0,
+      "end ": 218.0,
+      " text ": " A plus B should be greater than C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 218.0,
+      "end ": 220.0,
+      " text ": " and"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 220.0,
+      "end ": 222.0,
+      " text ": " B plus C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 222.0,
+      "end ": 224.0,
+      " text ": " should be greater than A"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 224.0,
+      "end ": 226.0,
+      " text ": " and"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 226.0,
+      "end ": 228.0,
+      " text ": " A plus C should be greater than B"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 228.0,
+      "end ": 230.0,
+      " text ": " If this condition is true"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 230.0,
+      "end ": 232.0,
+      " text ": " then you are smart"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 232.0,
+      "end ": 234.0,
+      " text ": " We will say"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 234.0,
+      "end ": 236.0,
+      " text ": " Print"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 236.0,
+      "end ": 238.0,
+      " text ": " that triangle is valid"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 238.0,
+      "end ": 240.0,
+      " text ": " If this condition is false"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 242.0,
+      "end ": 244.0,
+      " text ": " Then we will print"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 244.0,
+      "end ": 246.0,
+      " text ": " not valid"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 246.0,
+      "end ": 248.0,
+      " text ": " After that we will simply end"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 248.0,
+      "end ": 250.0,
+      " text ": " Okay"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 252.0,
+      "end ": 254.0,
+      " text ": " You can make a flowchart like this"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 254.0,
+      "end ": 256.0,
+      " text ": " This is our flowchart"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 256.0,
+      "end ": 258.0,
+      " text ": " It is very simple"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 258.0,
+      "end ": 260.0,
+      " text ": " Its pseudocode is more simple than this"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 260.0,
+      "end ": 262.0,
+      " text ": " We will read A, B, C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 262.0,
+      "end ": 264.0,
+      " text ": " After that we will write condition"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 264.0,
+      "end ": 266.0,
+      " text ": " If A plus B is greater than C"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 266.0,
+      "end ": 268.0,
+      " text ": " and B plus C is greater than A"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 268.0,
+      "end ": 270.0,
+      " text ": " and A plus C is greater than B"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 270.0,
+      "end ": 272.0,
+      " text ": " Then we will stop the code"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 272.0,
+      "end ": 274.0,
+      " text ": " As we will say"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 274.0,
+      "end ": 276.0,
+      " text ": " Triangle is not valid"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 276.0,
+      "end ": 278.0,
+      " text ": " See you in the next video"
+    },
+    {
+      "number": "13",
+      "title": " Flowcharts Q7",
+      "start": 278.0,
+      "end ": 280.0,
+      " text ": " Till then Goodbye"
+    }
+  ],
+  "text": " Hi everyone, welcome to the supreme batch In this video, we are going to see if a particular triangle is valid or not Is that triangle valid or not? We are going to check the validity of triangle using program and we are going to make its pseudocode and flowchart First of all, let's see what I need To define a triangle If I want to define a triangle I should know its sides A B C I have told you its sides Now, the sides that I have given you You will ask, is this triangle valid or not? It is possible that it is not a triangle A, B, C are not fulfilling the triangle condition What is the triangle condition? Mathematically Triangle is only that which has three sides and in all three sides their sum is only one relation If the sum of two sides is always greater than other side then the sum of two sides is always greater than other side If I want to say If I will add A and B It will always be greater than C Or if I will add B and C It will always be greater than A Or if I will add A and C It will always be greater than B If I will sum the length of two sides It will be greater than other side If this condition is true Then the given values A, B, C can form a triangle or not Let's see an example If I give an example A, B, C If I give an example A is equal to 1 B is equal to 3 C is equal to 0 If I take out A plus B A plus B is 4 4 is greater than 0 If I take out B plus C 3 is greater than 1 3 is greater than 1 3 is greater than 1 If I take out A plus C 1 is greater than 0 1 is greater than 3 No If I have given values like A, B, C Then mathematically I can say This is not a triangle Okay Very good Similarly, let's take an example A is equal to 10 B is equal to 20 C is equal to 20 What is a valid triangle? A plus B is greater than C 10 plus 20 is greater than 20 30 is greater than 20 B plus C is greater than 20 40 is greater than 10 A plus C is greater than 20 30 is greater than 20 Is this condition true? Yes This length can be a triangle This length can be a triangle Okay Very good Let's check the triangle Let's make a flowchart How to start the flowchart? First, we need a start After start, we will read the input from the user A, B, C The length of the triangle After that We have to apply a big condition A plus B should be greater than C and B plus C should be greater than A and A plus C should be greater than B If this condition is true then you are smart We will say Print that triangle is valid If this condition is false Then we will print not valid After that we will simply end Okay You can make a flowchart like this This is our flowchart It is very simple Its pseudocode is more simple than this We will read A, B, C After that we will write condition If A plus B is greater than C and B plus C is greater than A and A plus C is greater than B Then we will stop the code As we will say Triangle is not valid See you in the next video Till then Goodbye"
+}

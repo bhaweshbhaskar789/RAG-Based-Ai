@@ -1,0 +1,761 @@
+{
+  "chhunks": [
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 0.0,
+      "end ": 2.0,
+      " text ": " Hi everyone, welcome to the supreme badge"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 2.0,
+      "end ": 4.0,
+      " text ": " You must have read flowchart and pseudocode"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 4.0,
+      "end ": 6.0,
+      " text ": " You must have practiced some questions"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 6.0,
+      "end ": 8.0,
+      " text ": " Now let's practice home book questions"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 8.0,
+      "end ": 10.0,
+      " text ": " Before doing these questions"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 10.0,
+      "end ": 12.0,
+      " text ": " You will know the questions"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 12.0,
+      "end ": 14.0,
+      " text ": " Before that you will try by yourself"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 14.0,
+      "end ": 16.0,
+      " text ": " You will use your brain"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 16.0,
+      "end ": 18.0,
+      " text ": " You will see whether you can do it or not"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 18.0,
+      "end ": 20.0,
+      " text ": " You will try by yourself"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 20.0,
+      "end ": 22.0,
+      " text ": " When you will try it fully"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 22.0,
+      "end ": 24.0,
+      " text ": " You will go to solution"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 24.0,
+      "end ": 26.0,
+      " text ": " If we will try by ourselves"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 26.0,
+      "end ": 28.0,
+      " text ": " Then you will be able to make mind map"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 28.0,
+      "end ": 30.0,
+      " text ": " Let's see the first question"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 30.0,
+      "end ": 32.0,
+      " text ": " Multiply two numbers"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 32.0,
+      "end ": 34.0,
+      " text ": " We have to"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 34.0,
+      "end ": 36.0,
+      " text ": " Multiply two numbers"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 36.0,
+      "end ": 38.0,
+      " text ": " How to write pseudocode for this"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 38.0,
+      "end ": 40.0,
+      " text ": " We should have two numbers"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 40.0,
+      "end ": 42.0,
+      " text ": " Suppose"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 42.0,
+      "end ": 44.0,
+      " text ": " We have A and B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 44.0,
+      "end ": 46.0,
+      " text ": " Two integer numbers"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 46.0,
+      "end ": 48.0,
+      " text ": " What we have to do first"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 48.0,
+      "end ": 50.0,
+      " text ": " We have to take input"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 50.0,
+      "end ": 52.0,
+      " text ": " We have to take input"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 52.0,
+      "end ": 54.0,
+      " text ": " We will take input"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 54.0,
+      "end ": 56.0,
+      " text ": " A and B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 56.0,
+      "end ": 58.0,
+      " text ": " Then we have to multiply"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 58.0,
+      "end ": 60.0,
+      " text ": " A multiply B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 60.0,
+      "end ": 62.0,
+      " text ": " A multiply B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 62.0,
+      "end ": 64.0,
+      " text ": " We will store this in"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 64.0,
+      "end ": 66.0,
+      " text ": " Product"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 66.0,
+      "end ": 68.0,
+      " text ": " We will multiply like this"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 68.0,
+      "end ": 70.0,
+      " text ": " Let's see the example"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 70.0,
+      "end ": 72.0,
+      " text ": " Suppose A value is 2"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 72.0,
+      "end ": 74.0,
+      " text ": " And B value is 5"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 74.0,
+      "end ": 76.0,
+      " text ": " Then"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 76.0,
+      "end ": 78.0,
+      " text ": " Product will be"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 78.0,
+      "end ": 80.0,
+      " text ": " 5 multiply by 2"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 80.0,
+      "end ": 82.0,
+      " text ": " 2 multiply by 5"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 82.0,
+      "end ": 84.0,
+      " text ": " Similarly, if we take second example"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 84.0,
+      "end ": 86.0,
+      " text ": " Suppose A is minus 3"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 86.0,
+      "end ": 88.0,
+      " text ": " And B is 10"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 88.0,
+      "end ": 90.0,
+      " text ": " Then"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 90.0,
+      "end ": 92.0,
+      " text ": " Product will be"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 92.0,
+      "end ": 94.0,
+      " text ": " Minus 3 multiply 10"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 94.0,
+      "end ": 96.0,
+      " text ": " That is minus 30"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 96.0,
+      "end ": 98.0,
+      " text ": " Let's take another example"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 98.0,
+      "end ": 100.0,
+      " text ": " Suppose A is minus 4"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 100.0,
+      "end ": 102.0,
+      " text ": " And B is minus 3"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 102.0,
+      "end ": 104.0,
+      " text ": " Then product will be"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 104.0,
+      "end ": 106.0,
+      " text ": " Minus 4"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 106.0,
+      "end ": 108.0,
+      " text ": " Multiply by minus 3"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 108.0,
+      "end ": 110.0,
+      " text ": " That is plus 12"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 110.0,
+      "end ": 112.0,
+      " text ": " Okay"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 112.0,
+      "end ": 114.0,
+      " text ": " Now we know how to do"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 114.0,
+      "end ": 116.0,
+      " text ": " Multiply by number"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 116.0,
+      "end ": 118.0,
+      " text ": " We have to take input"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 118.0,
+      "end ": 120.0,
+      " text ": " Then store it in product"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 120.0,
+      "end ": 122.0,
+      " text ": " Finally we have to print"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 122.0,
+      "end ": 124.0,
+      " text ": " Okay"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 124.0,
+      "end ": 126.0,
+      " text ": " Let's make flowchart"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 126.0,
+      "end ": 128.0,
+      " text ": " To make flowchart"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 128.0,
+      "end ": 130.0,
+      " text ": " First we make a block"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 130.0,
+      "end ": 132.0,
+      " text ": " Start"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 132.0,
+      "end ": 134.0,
+      " text ": " Then we take input"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 134.0,
+      "end ": 136.0,
+      " text ": " A and B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 136.0,
+      "end ": 138.0,
+      " text ": " We will take two input"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 142.0,
+      "end ": 144.0,
+      " text ": " To take input"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 144.0,
+      "end ": 146.0,
+      " text ": " We have to make something like this"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 146.0,
+      "end ": 148.0,
+      " text ": " Read A comma B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 148.0,
+      "end ": 150.0,
+      " text ": " After reading"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 150.0,
+      "end ": 152.0,
+      " text ": " We will make a processing"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 152.0,
+      "end ": 154.0,
+      " text ": " We will make a processing block"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 154.0,
+      "end ": 156.0,
+      " text ": " Where we will store product"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 156.0,
+      "end ": 158.0,
+      " text ": " A multiply B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 158.0,
+      "end ": 160.0,
+      " text ": " Okay"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 160.0,
+      "end ": 162.0,
+      " text ": " After that we will print it"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 162.0,
+      "end ": 164.0,
+      " text ": " Print"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 164.0,
+      "end ": 166.0,
+      " text ": " Product"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 166.0,
+      "end ": 168.0,
+      " text ": " To print we have to make output block"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 168.0,
+      "end ": 170.0,
+      " text ": " We have made output block"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 172.0,
+      "end ": 174.0,
+      " text ": " After that"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 174.0,
+      "end ": 176.0,
+      " text ": " We will end"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 176.0,
+      "end ": 178.0,
+      " text ": " So this way our flowchart will be made"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 178.0,
+      "end ": 180.0,
+      " text ": " First we start"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 180.0,
+      "end ": 182.0,
+      " text ": " Read A and B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 182.0,
+      "end ": 184.0,
+      " text ": " After that we store product"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 184.0,
+      "end ": 186.0,
+      " text ": " After that we print product"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 186.0,
+      "end ": 188.0,
+      " text ": " Like this"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 188.0,
+      "end ": 190.0,
+      " text ": " Then we end"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 190.0,
+      "end ": 192.0,
+      " text ": " Let's see its pseudocode"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 192.0,
+      "end ": 194.0,
+      " text ": " If flowchart is made"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 194.0,
+      "end ": 196.0,
+      " text ": " Then making pseudocode is not a big deal"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 196.0,
+      "end ": 198.0,
+      " text ": " We will make pseudocode"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 198.0,
+      "end ": 200.0,
+      " text ": " First we will read A and B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 200.0,
+      "end ": 202.0,
+      " text ": " After that"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 202.0,
+      "end ": 204.0,
+      " text ": " We will store product"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 204.0,
+      "end ": 206.0,
+      " text ": " A multiply B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 206.0,
+      "end ": 208.0,
+      " text ": " And we will print it"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 208.0,
+      "end ": 210.0,
+      " text ": " So this is our"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 210.0,
+      "end ": 212.0,
+      " text ": " Multiplying"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 212.0,
+      "end ": 214.0,
+      " text ": " Two numbers"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 214.0,
+      "end ": 216.0,
+      " text ": " A and B"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 216.0,
+      "end ": 218.0,
+      " text ": " This is pseudocode and flowchart"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 218.0,
+      "end ": 220.0,
+      " text ": " See you in next video"
+    },
+    {
+      "number": "07",
+      "title": " Flowcharts Q1",
+      "start": 220.0,
+      "end ": 222.0,
+      " text ": " Good bye"
+    }
+  ],
+  "text": " Hi everyone, welcome to the supreme badge You must have read flowchart and pseudocode You must have practiced some questions Now let's practice home book questions Before doing these questions You will know the questions Before that you will try by yourself You will use your brain You will see whether you can do it or not You will try by yourself When you will try it fully You will go to solution If we will try by ourselves Then you will be able to make mind map Let's see the first question Multiply two numbers We have to Multiply two numbers How to write pseudocode for this We should have two numbers Suppose We have A and B Two integer numbers What we have to do first We have to take input We have to take input We will take input A and B Then we have to multiply A multiply B A multiply B We will store this in Product We will multiply like this Let's see the example Suppose A value is 2 And B value is 5 Then Product will be 5 multiply by 2 2 multiply by 5 Similarly, if we take second example Suppose A is minus 3 And B is 10 Then Product will be Minus 3 multiply 10 That is minus 30 Let's take another example Suppose A is minus 4 And B is minus 3 Then product will be Minus 4 Multiply by minus 3 That is plus 12 Okay Now we know how to do Multiply by number We have to take input Then store it in product Finally we have to print Okay Let's make flowchart To make flowchart First we make a block Start Then we take input A and B We will take two input To take input We have to make something like this Read A comma B After reading We will make a processing We will make a processing block Where we will store product A multiply B Okay After that we will print it Print Product To print we have to make output block We have made output block After that We will end So this way our flowchart will be made First we start Read A and B After that we store product After that we print product Like this Then we end Let's see its pseudocode If flowchart is made Then making pseudocode is not a big deal We will make pseudocode First we will read A and B After that We will store product A multiply B And we will print it So this is our Multiplying Two numbers A and B This is pseudocode and flowchart See you in next video Good bye"
+}
